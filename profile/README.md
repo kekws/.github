@@ -4,7 +4,7 @@
 
 We are a development team created & owned by <a href="https://github.com/expIoiter">`exploiter`</a> aka <a href="https://github.com/codeuk">`codeuk`</a>
 
-We create open-source modern applications ranging from malware to fullstack web development projects
+We create open-source modern applications ranging from malware analysis tools to fullstack web development projects
 
 <h2>Current Projects</h2>
 
