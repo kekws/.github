@@ -16,5 +16,5 @@ https://github.com/kekws/tantalus
 <h2>Upcoming Projects</h2>
 
 ```py
-https://github.com/kekws/remote-handler
+https://github.com/kekws/stealerlib
 ```
